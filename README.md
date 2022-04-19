@@ -3,6 +3,8 @@ Python script that allows you to spoof the dns requests.
 
 `You will have to launch MITM attack before you perform dns spoofing.`
 
+<a href='https://github.com/itzVort3x1/arp-spoof'>Click here For the code to launch MITM Attack</a>
+
 NOTE:
 <br />
 1) If you want to test it on the same system run the following two commands:
