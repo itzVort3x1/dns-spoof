@@ -1,6 +1,8 @@
 # dns-spoof
 Python script that allows you to spoof the dns requests.
 
+`You will have to launch MITM attack before you perform dns spoofing.`
+
 NOTE:
 <br />
 1) If you want to test it on the same system run the following two commands:
