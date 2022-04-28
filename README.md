@@ -1,5 +1,5 @@
 # dns-spoof
-Python script that allows you to spoof the dns requests
+Python script that allows you to spoof the dns requests.
 
 `You will have to launch MITM attack before you perform dns spoofing.`
 
